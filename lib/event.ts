@@ -5,7 +5,7 @@ export const EVENT = {
   title: "Atraer, vender y fidelizar",
   subtitle: "El ciclo que hace crecer tu negocio",
   fullName: "Atraer, vender y fidelizar: El ciclo que hace crecer tu negocio",
-  speaker: "Sebastián Villafañes",
+  speaker: "Luciano Carbone",
   dateLong: "Sábado 14 de noviembre de 2026",
   dateShort: "SÁB 14.11",
   weekday: "Sábado",
